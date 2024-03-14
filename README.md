@@ -1,1 +1,4 @@
-# blip-image-captioning-large_for_video
+# blip Image Captioning Large for Video
+
+
+origin: https://huggingface.co/Salesforce/blip-image-captioning-large

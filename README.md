@@ -7,8 +7,4 @@ Modelo para legenda de imagens pré-treinado no conjunto de dados COCO - arquite
 ![N|Solid](https://github.com/henriqueburis/blip-image-captioning-large_for_video/blob/main/figure/1670928184033-624.gif?raw=true)
 
 ## Video
-
-<video width="320" height="240" controls>
-  <source src="figure/output.mp4" type="video/mp4">
-  Seu navegador não suporta a exibição de vídeos.
-</video>
+[![Nome do vídeo](https://img.youtube.com/vi/F_0JHZuk5l0/0.jpg)](https://www.youtube.com/watch?v=F_0JHZuk5l0)
